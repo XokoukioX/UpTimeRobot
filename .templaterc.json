@@ -1,3 +1,12 @@
-{
-  "files": [".github/**/*"]
-}
+owner: XokoukioX # GitHub username
+repo: KeepServiceAlive # GitHub repository name
+sites: # List of endpoints to track
+  - name: QSign
+    url: https://qsign-shirasuazusa.koyeb.app/
+  - name: GPT_API
+    url: https://go-chatgpt-api-zyw8.onrender.com
+assignees: # Users to assign downtime issues (optional)
+  - AnandChowdhary
+status-website:
+  baseUrl: /KeepServiceAlive # where "repo" is your repository name
+  name: Kawakaze's Status Website
