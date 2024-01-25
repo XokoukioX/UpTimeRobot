@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 262,
-    "timeWeek": 262,
-    "timeMonth": 262,
-    "timeYear": 262,
+    "time": 263,
+    "timeDay": 263,
+    "timeWeek": 263,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 159,
-    "timeWeek": 159,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "time": 207,
+    "timeDay": 207,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "POST to QSign",
+    "url": "https://qsign-shirasuazusa.koyeb.app/",
+    "icon": "https://icons.duckduckgo.com/ip3/qsign-shirasuazusa.koyeb.app.ico",
+    "slug": "post-to-q-sign",
+    "status": "down",
+    "uptime": "10.30%",
+    "uptimeDay": "10.30%",
+    "uptimeWeek": "10.30%",
+    "uptimeMonth": "10.30%",
+    "uptimeYear": "10.30%",
+    "time": 188,
+    "timeDay": 188,
+    "timeWeek": 188,
+    "timeMonth": 188,
+    "timeYear": 188,
+    "dailyMinutesDown": {
+      "2024-01-25": 0
+    }
+  },
+  {
+    "name": "POST to GPT_API",
+    "url": "https://go-chatgpt-api-zyw8.onrender.com",
+    "icon": "https://icons.duckduckgo.com/ip3/go-chatgpt-api-zyw8.onrender.com.ico",
+    "slug": "post-to-gpt-api",
+    "status": "down",
+    "uptime": "16.53%",
+    "uptimeDay": "16.53%",
+    "uptimeWeek": "16.53%",
+    "uptimeMonth": "16.53%",
+    "uptimeYear": "16.53%",
+    "time": 102,
+    "timeDay": 102,
+    "timeWeek": 102,
+    "timeMonth": 102,
+    "timeYear": 102,
+    "dailyMinutesDown": {
+      "2024-01-25": 0
+    }
   }
 ]
