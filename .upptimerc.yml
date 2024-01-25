@@ -11,7 +11,7 @@ sites: # List of endpoints to track
   - name: POST to GPT_API
     url: https://go-chatgpt-api-zyw8.onrender.com
     method: POST
-  -name: Zym's Site(Private)
+  - name: Zym's Site(Private)
     url: $ZYM
 assignees: # Users to assign downtime issues (optional)
   - Kawakaze
