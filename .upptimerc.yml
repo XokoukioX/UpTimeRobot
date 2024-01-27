@@ -5,12 +5,8 @@ sites: # List of endpoints to track
     url: https://qsign-shirasuazusa.koyeb.app/
   - name: GPT_API
     url: https://go-chatgpt-api-zyw8.onrender.com
-  - name: POST to QSign
-    url: https://qsign-shirasuazusa.koyeb.app/
-    method: POST
-  - name: POST to GPT_API
-    url: https://go-chatgpt-api-zyw8.onrender.com
-    method: POST
+  - name: Zymooll's Services
+    url: ${{ secrets.ZYM }}
 assignees: # Users to assign downtime issues (optional)
   - Kawakaze
   - XokoukioX
