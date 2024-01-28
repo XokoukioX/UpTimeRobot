@@ -4,18 +4,20 @@
     "url": "https://qsign-shirasuazusa.koyeb.app/",
     "icon": "https://icons.duckduckgo.com/ip3/qsign-shirasuazusa.koyeb.app.ico",
     "slug": "q-sign",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 294,
-    "timeWeek": 267,
-    "timeMonth": 267,
-    "timeYear": 267,
-    "dailyMinutesDown": {}
+    "time": 268,
+    "timeDay": 289,
+    "timeWeek": 268,
+    "timeMonth": 268,
+    "timeYear": 268,
+    "dailyMinutesDown": {
+      "2024-01-28": 0
+    }
   },
   {
     "name": "GPT_API",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-28": 72,
+      "2024-01-28": 851,
       "2024-01-27": 513
     }
   }
