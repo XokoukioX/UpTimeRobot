@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 118,
-    "timeWeek": 131,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "time": 213,
+    "timeDay": 190,
+    "timeWeek": 147,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 330,
-    "timeWeek": 238,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 230,
+    "timeDay": 217,
+    "timeWeek": 222,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-06": 67,
+      "2024-02-06": 149,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
@@ -64,5 +64,23 @@
       "2024-01-28": 1440,
       "2024-01-27": 513
     }
+  },
+  {
+    "name": "Blog",
+    "url": "https://www.kawakaze.dynv6.net/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.kawakaze.dynv6.net.ico",
+    "slug": "blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1288,
+    "timeDay": 1288,
+    "timeWeek": 1288,
+    "timeMonth": 1288,
+    "timeYear": 1288,
+    "dailyMinutesDown": {}
   }
 ]
