@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 184,
+    "timeDay": 106,
     "timeWeek": 147,
     "timeMonth": 207,
     "timeYear": 207,
@@ -22,18 +22,20 @@
     "url": "https://go-chatgpt-api-zyw8.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/go-chatgpt-api-zyw8.onrender.com.ico",
     "slug": "gpt-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 151,
+    "timeDay": 189,
     "timeWeek": 221,
     "timeMonth": 224,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-07": 0
+    }
   },
   {
     "name": "Blog",
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2729,
-    "timeDay": 2729,
+    "timeDay": 5634,
     "timeWeek": 2729,
     "timeMonth": 2729,
     "timeYear": 2729,
