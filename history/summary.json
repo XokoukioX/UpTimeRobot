@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 199,
-    "timeWeek": 186,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "time": 210,
+    "timeDay": 174,
+    "timeWeek": 194,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/go-chatgpt-api-zyw8.onrender.com.ico",
     "slug": "gpt-api",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 220,
-    "timeDay": 176,
-    "timeWeek": 199,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 217,
+    "timeDay": 150,
+    "timeWeek": 197,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2024-02-07": 17
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4524,
-    "timeDay": 5890,
-    "timeWeek": 4524,
-    "timeMonth": 4524,
-    "timeYear": 4524,
+    "time": 4705,
+    "timeDay": 5795,
+    "timeWeek": 4705,
+    "timeMonth": 4705,
+    "timeYear": 4705,
     "dailyMinutesDown": {}
   }
 ]
