@@ -4,19 +4,19 @@
     "url": "https://qsign-shirasuazusa.koyeb.app/",
     "icon": "https://icons.duckduckgo.com/ip3/qsign-shirasuazusa.koyeb.app.ico",
     "slug": "q-sign",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 115,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 193,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 194,
+    "timeDay": 180,
+    "timeWeek": 178,
+    "timeMonth": 171,
+    "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-02-28": 0
+      "2024-02-28": 32
     }
   },
   {
