@@ -6,15 +6,15 @@
     "slug": "q-sign",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 197,
-    "timeDay": 196,
-    "timeWeek": 193,
-    "timeMonth": 183,
-    "timeYear": 197,
+    "time": 198,
+    "timeDay": 234,
+    "timeWeek": 200,
+    "timeMonth": 187,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2024-03-02": 16,
       "2024-02-28": 32
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 225,
-    "timeDay": 188,
-    "timeWeek": 213,
-    "timeMonth": 220,
-    "timeYear": 225,
+    "time": 222,
+    "timeDay": 108,
+    "timeWeek": 207,
+    "timeMonth": 218,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2024-02-07": 17
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5643,
-    "timeDay": 1898,
-    "timeWeek": 5925,
-    "timeMonth": 5643,
-    "timeYear": 5643,
+    "time": 5674,
+    "timeDay": 6541,
+    "timeWeek": 5836,
+    "timeMonth": 5674,
+    "timeYear": 5674,
     "dailyMinutesDown": {}
   }
 ]
