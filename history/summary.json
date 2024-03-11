@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsign-shirasuazusa.koyeb.app.ico",
     "slug": "q-sign",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.92%",
-    "time": 198,
-    "timeDay": 225,
-    "timeWeek": 205,
+    "uptimeYear": "99.93%",
+    "time": 197,
+    "timeDay": 157,
+    "timeWeek": 194,
     "timeMonth": 187,
-    "timeYear": 198,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2024-03-02": 16,
       "2024-02-28": 32
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 219,
-    "timeDay": 96,
-    "timeWeek": 180,
+    "time": 218,
+    "timeDay": 160,
+    "timeWeek": 188,
     "timeMonth": 218,
-    "timeYear": 219,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2024-02-07": 17
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5820,
-    "timeDay": 6775,
-    "timeWeek": 6528,
-    "timeMonth": 6088,
-    "timeYear": 5820,
+    "time": 5704,
+    "timeDay": 1639,
+    "timeWeek": 5828,
+    "timeMonth": 5945,
+    "timeYear": 5704,
     "dailyMinutesDown": {}
   }
 ]
