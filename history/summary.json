@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/qsign-shirasuazusa.koyeb.app.ico",
     "slug": "q-sign",
     "status": "down",
-    "uptime": "73.38%",
+    "uptime": "73.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.44%",
-    "uptimeYear": "73.38%",
+    "uptimeMonth": "44.57%",
+    "uptimeYear": "73.07%",
     "time": 189,
     "timeDay": 208,
     "timeWeek": 179,
     "timeMonth": 183,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2024-03-28": 67,
+      "2024-03-28": 450,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -64,9 +64,9 @@
     "url": "https://www.kawakaze.dynv6.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kawakaze.dynv6.net.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,6 +75,8 @@
     "timeWeek": 5448,
     "timeMonth": 5892,
     "timeYear": 5793,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   }
 ]
