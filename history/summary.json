@@ -16,7 +16,7 @@
     "timeMonth": 166,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-04-09": 67,
+      "2024-04-09": 69,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
@@ -78,8 +78,8 @@
     "slug": "blog",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5642,
@@ -88,7 +88,7 @@
     "timeMonth": 5483,
     "timeYear": 5642,
     "dailyMinutesDown": {
-      "2024-04-09": 0
+      "2024-04-09": 1
     }
   }
 ]
